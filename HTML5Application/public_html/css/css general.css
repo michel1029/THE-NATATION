@@ -1,0 +1,37 @@
+body {
+    background: beige repeat-x url(../image/red.png)
+}
+#tableaux img{
+        height: 100px;
+        width: 213px;
+}
+#tableaux th{
+    font: 30px monospace;
+        border: black double thick; 
+}
+#tableaux{
+background: blanchedalmond no-repeat url(../image/39612000-waves-wallpapers.png)
+}
+#tableaux td{
+    font:18px monospace ;
+    border: solid black thick;
+            height: 100px;
+    
+}
+#CHAMPIONASIDE img{
+          height: 210px;
+        width: 213px; 
+        padding: inherit;
+        border:aqua  medium solid; 
+}
+#CHAMPIONASIDE {
+        font-size: 15px;
+    float: right;
+    border: black thick double;
+       width: 220px;
+       height: 950px;
+       padding: inherit;  
+}
+#CHAMPIONASIDE li{
+    font:18px fantasy;
+}

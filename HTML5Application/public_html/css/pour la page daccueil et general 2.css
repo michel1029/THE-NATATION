@@ -1,0 +1,50 @@
+
+h1,h2{
+    text-align: center;
+    font-family: inherit; 
+}
+#TITRE {
+    border: black double thick;
+    
+}
+nav {
+    font-size: 15px;
+    float: left;
+    border: black thick double;
+       width: 220px;
+       height: 950px;
+       padding: inherit;  
+           
+}
+nav h3{
+    border: black  double medium;
+}
+section header h4{
+ font: 30px fantasy;
+}
+section article h3{
+    font: 30px  serif;
+    margin: inherit;  
+}
+
+#image img{
+    height: 150px;
+    width: 200px;
+        
+}
+#imageacceuil img{
+    width:220px;
+    height:230px;
+    border: brown  solid;
+}
+#imageacceuil{
+    float: right;
+       width: 220px;
+       height: 900px
+}
+#end h6{
+    font:10px monospace;
+    float:  right;
+    position: static; 
+    margin: auto; 
+}
